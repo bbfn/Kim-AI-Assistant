@@ -1,0 +1,14 @@
+{
+  "name": "Flutter for web",
+  "type": "dart",
+  "request": "launch",
+  "program": "lib/main.dart",
+  "args": [
+    "-d",
+    "chrome"
+  ],
+  "configurations": [
+    
+
+  ]
+}
